@@ -1,1 +1,3 @@
 # playground_schema
+
+- proto
